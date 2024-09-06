@@ -1,0 +1,5 @@
+{
+    "cSpell.enabled": true,
+    "docker.languageserver.formatter.ignoreMultilineInstructions": true,
+    "files.insertFinalNewline": true
+}

@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  pull_request:  # any pull request
+  push:
+    branches:
+      - master
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  spellcheck:
+    uses: finleyfamily/workflows/.github/workflows/spellcheck.yml@master
