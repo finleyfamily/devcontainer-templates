@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@itprokyle/cspell-dict": "^1.2.6"
+    "@itprokyle/cspell-dict": "^1.2.7"
   },
   "name": "devcontainer-templates",
   "version": "0.0.0"
